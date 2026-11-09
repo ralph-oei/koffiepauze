@@ -1,0 +1,11 @@
+{
+  "min_agents": 2,
+  "work_minutes": 50,
+  "settle_seconds": 90,
+  "quiet_hours": ["22:00", "08:00"],
+  "say": true,
+  "voice": null,
+  "notify": true,
+  "command": null,
+  "message": "Coffee break. All {n} agents are busy and none of them needs you."
+}
