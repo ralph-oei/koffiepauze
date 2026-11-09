@@ -11,7 +11,7 @@ Works with [Claude Code](https://claude.com/claude-code) hooks. Standard library
 ## Install
 
 ```bash
-git clone https://github.com/<you>/koffiepauze.git
+git clone https://github.com/ralph-oei/koffiepauze.git
 cd koffiepauze
 python3 koffiepauze.py install
 ```
